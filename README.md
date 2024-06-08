@@ -1,10 +1,10 @@
-### Hello, I'm SUMIN JUN 👋
+### Hello, My name is SUMIN JUN 🐳
 
 #### Backend Developer    
 I'm a developer who thinks, searches, implements ideas through web.
 
 
-🛠️ Stacks
+📚 Stacks
 <p>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 <br>
@@ -19,11 +19,11 @@ I'm a developer who thinks, searches, implements ideas through web.
 <img src="https://img.shields.io/badge/notion-000000?style=flat-square&logo=notion&logoColor=white"/> <img src="https://img.shields.io/badge/slack-4A154B?style=flat-square&logo=slack&logoColor=white"/> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> 
 
 
-💪🏼 Tools 
+🔨 Tools 
 
  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flat-square&logo=IntelliJ IDEA&logoColor=white"/> 
 
-🐱 About Me
+🐋 About Me
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:su91582710@gmail.com)](mailto:su91582710@gmail.com) [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/ineffible/mm-6bbc43d2448a4d5a84ac119856776ec1?pvs=4)](https://www.notion.so/ineffible/mm-6bbc43d2448a4d5a84ac119856776ec1?pvs=4)
 
