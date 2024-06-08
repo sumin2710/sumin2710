@@ -25,6 +25,6 @@ I'm a developer who thinks, searches, implements ideas through web.
 
 🐱 About Me
 
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:su91582710@gmail.com)](su91582710@gmail.com) [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/ineffible/mm-6bbc43d2448a4d5a84ac119856776ec1?pvs=4)](https://www.notion.so/ineffible/mm-6bbc43d2448a4d5a84ac119856776ec1?pvs=4)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:su91582710@gmail.com)](mailto:su91582710@gmail.com) [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/ineffible/mm-6bbc43d2448a4d5a84ac119856776ec1?pvs=4)](https://www.notion.so/ineffible/mm-6bbc43d2448a4d5a84ac119856776ec1?pvs=4)
 
 
